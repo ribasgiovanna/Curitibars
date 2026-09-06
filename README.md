@@ -9,6 +9,8 @@ Team project, built jointly with Emelize Bonfim Mlot
 fork kept on Giovanna's account for portfolio reference; the work on the pages and
 styles was done together.
 
+![Curitibars](docs/home.png)
+
 ## Structure
 
 ```
