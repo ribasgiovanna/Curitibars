@@ -14,7 +14,7 @@ styles was done together.
 ## Structure
 
 ```
-curitibars/
+.
 ├── index.html       # bar listing with side navigation
 ├── formulario.html  # contact form
 ├── style.css        # listing styles
@@ -24,7 +24,8 @@ curitibars/
 
 ## Running
 
-Open `curitibars/index.html` in a browser - no build step or dependencies.
+Open `index.html` in a browser - no build step or dependencies - or visit the live site:
+https://ribasgiovanna.github.io/Curitibars/
 
 ## Tech
 
